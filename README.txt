@@ -1,4 +1,4 @@
-This project contains one POython module spreadsheets.py that represents a solution to the task described below. 
+This project contains one Python module spreadsheets.py that represents a solution to the task described below. 
 The orginal problem is found on the following url: http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=132
 
 Task:
